@@ -1,0 +1,107 @@
+ [
+        {
+            "Text" : "Inside which HTML element do we put the JavaScript?", 
+            "variants ": [
+                            "<js>", 
+                            "<scripting>",
+                            "<javascript>",
+                            "<script>"
+                        ], 
+            "answer" : "<script>"},
+        {
+            "Text": "Where is the correct place to insert a JavaScript?",
+            "variants" : [
+                            "The <body> section",
+                            "The <head> section",
+                            "Both the <head> section and the <body> section are correct"
+                         ], 
+            "answer" : "Both the <head> section and the <body> section are correct"},
+        {
+            "Text" : "The external JavaScript file must contain the <script> tag.", 
+            "variants" : [
+                            "True",
+                            "False"               
+                        ],
+            "answer" : "False"
+        },
+            { 
+                "Text": "How do you create a function in JavaScript?",
+                "variants" : [
+                                "function myFunction()",
+                                "function:myFunction()",
+                                "function = myFunction()"
+                            ], 
+                "answer" : "function myFunction()"
+            },
+            {
+                "Text" : "THow do you call a function named //'myFunction//'?", 
+                "variants" : [
+                                "call function myFunction()",
+                                "call myFunction()",
+                                "myFunction()"
+                            ],
+                  "answer" : "myFunction()"},
+            
+             {
+                "Text" : "How to write an IF statement in JavaScript?", 
+                "variants" : [
+                                "if (i == 5)",
+                                "if i = 5",
+                                "if i == 5 then",
+                                "if i = 5 then"
+                            ],
+                "answer" : "if (i == 5)"},
+
+            { 
+                 "Text" : "How does a WHILE loop start?", 
+                "variants" : [
+                                "while (i <= 10; i++)",
+                                "while (i <= 10)",
+                                "while i = 1 to 10"
+                            ],
+                "answer" : "   "},
+                { 
+                    "Text" : "How does a FOR loop start?", 
+                   "variants" : [
+                                    "for (i = 0; i <= 5; i++)",
+                                    "for i = 1 to 5",
+                                    "for (i = 0; i <= 5)",
+                                    "for (i <= 5; i++)"
+                               ],
+                   "answer" : "for (i = 0; i <= 5; i++)"},                        
+                   { 
+                    "Text" : "JavaScript is the same as Java.", 
+                   "variants" : [
+                                    "True",
+                                    "False"
+                               ],
+                   "answer" : "False"},       
+                   { 
+                    "Text" : "How do you declare a JavaScript variable?", 
+                   "variants" : [
+                                    "v carName;",
+                                    "variable carName;",
+                                    "var carName;"
+                               ],
+                   "answer" : "var carName"},    
+
+                   { 
+                    "Text" : "Which operator is used to assign a value to a variable?", 
+                   "variants" : [
+                                    "-",
+                                    "=",
+                                    "x",
+                                    "*"
+                               ],
+                   "answer" : "="},   
+                   
+                   { 
+                    "Text" : "Is JavaScript case-sensitive?", 
+                   "variants" : [
+                                    "No",
+                                    "Yes"
+                               ],
+                   "answer" : "Yes"}         
+
+
+    ]
